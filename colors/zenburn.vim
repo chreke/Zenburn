@@ -259,13 +259,13 @@ hi DiffAdd         guifg=#709080 guibg=#313c36 gui=bold       ctermfg=66  ctermb
 hi DiffChange      guibg=#333333                              ctermbg=236
 hi DiffDelete      guifg=#333333 guibg=#464646                ctermfg=236 ctermbg=238
 hi DiffText        guifg=#ecbcbc guibg=#41363c gui=bold       ctermfg=217 ctermbg=237 cterm=bold
-hi Directory       guifg=#9fafaf gui=bold                     ctermfg=109 cterm=bold
+hi Directory       guifg=#dcdccc gui=bold                     ctermfg=188 cterm=bold
 hi ErrorMsg        guifg=#80d4aa guibg=#2f2f2f gui=bold       ctermfg=115 ctermbg=236 cterm=bold
 hi Exception       guifg=#c3bf9f gui=bold                     ctermfg=249 cterm=bold
 hi Float           guifg=#c0bed1                              ctermfg=251
 hi FoldColumn      guifg=#93b3a3 guibg=#3f4040
 hi Folded          guifg=#93b3a3 guibg=#3f4040
-hi Function        guifg=#efef8f                              ctermfg=228
+hi Function        guifg=#8cd0d3                              ctermfg=116
 hi Identifier      guifg=#efdcbc                              ctermfg=223 cterm=none
 hi IncSearch       guifg=#f8f893 guibg=#385f38                ctermfg=228 ctermbg=23
 hi Keyword         guifg=#f0dfaf gui=bold                     ctermfg=223 cterm=bold
