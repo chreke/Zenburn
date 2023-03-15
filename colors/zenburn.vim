@@ -372,7 +372,7 @@ else
     endif
     hi NonText       guifg=#5b605e gui=bold                ctermfg=240
     hi Pmenu         guibg=#2c2e2e guifg=#9f9f9f           ctermfg=248 ctermbg=235
-    hi PmenuSel      guibg=#242424 guifg=#d0d0a0 gui=bold  ctermfg=187 ctermbg=235 cterm=bold
+    hi PmenuSel      guibg=#242424 guifg=#d0d0a0 gui=bold  ctermfg=187 ctermbg=234 cterm=bold
     hi MatchParen    guifg=#ffffe0 guibg=#284f28 gui=bold  ctermfg=230 ctermbg=22  cterm=bold
     hi SignColumn    guibg=#343434                         ctermbg=236
     hi SpecialKey    guibg=#444444
